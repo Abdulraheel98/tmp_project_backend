@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plan: one
+  technician: one
+  active: false
+  stripe_id: MyString
+
+two:
+  plan: two
+  technician: two
+  active: false
+  stripe_id: MyString
